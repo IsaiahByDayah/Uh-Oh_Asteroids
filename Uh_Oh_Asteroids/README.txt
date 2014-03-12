@@ -6,7 +6,7 @@ Creator: Isaiah Smith
 Creation Date: 3/ 12/ 2014
 Name: Uh-Oh Asteroids
 Version: 1.0
-GitHub: 
+GitHub: https://github.com/jordankid93/Uh-Oh_Asteroids
 
 
 ***************************************
